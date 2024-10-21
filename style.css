@@ -1,0 +1,24 @@
+* {
+    font-family: FontAwesome, "0xProto Nerd Font Mono";
+    font-size: 24px;
+}
+
+window{
+    background-color: #e6e6e6;
+}
+
+label {
+    font-size: 24px;
+    padding-left: 5px;
+}
+
+button {
+    
+}
+
+
+button:hover {
+}
+
+scale{
+}
